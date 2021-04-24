@@ -1,0 +1,24 @@
+C:\Users\admin\source\repos\Лобараторная работа DAPPER\Лобараторная работа DAPPER\obj\Debug\Лобараторная работа DAPPER.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Лобараторная работа DAPPER\Лобараторная работа DAPPER\obj\Debug\Лобараторная работа DAPPER.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Лобараторная работа DAPPER\Лобараторная работа DAPPER\bin\Debug\Лобараторная работа DAPPER.exe.config
+C:\Users\admin\source\repos\Лобараторная работа DAPPER\Лобараторная работа DAPPER\bin\Debug\Лобараторная работа DAPPER.exe
+C:\Users\admin\source\repos\Лобараторная работа DAPPER\Лобараторная работа DAPPER\bin\Debug\Лобараторная работа DAPPER.pdb
+C:\Users\admin\source\repos\Лобараторная работа DAPPER\Лобараторная работа DAPPER\bin\Debug\Dapper.dll
+C:\Users\admin\source\repos\Лобараторная работа DAPPER\Лобараторная работа DAPPER\bin\Debug\DapperExtensions.dll
+C:\Users\admin\source\repos\Лобараторная работа DAPPER\Лобараторная работа DAPPER\bin\Debug\Dapper.xml
+C:\Users\admin\source\repos\Лобараторная работа DAPPER\Лобараторная работа DAPPER\bin\Debug\DapperExtensions.pdb
+C:\Users\admin\source\repos\Лобараторная работа DAPPER\Лобараторная работа DAPPER\obj\Debug\Лобараторная работа DAPPER.csproj.CopyComplete
+C:\Users\admin\source\repos\Лобараторная работа DAPPER\Лобараторная работа DAPPER\obj\Debug\Лобараторная работа DAPPER.exe
+C:\Users\admin\source\repos\Лобараторная работа DAPPER\Лобараторная работа DAPPER\obj\Debug\Лобараторная работа DAPPER.pdb
+D:\Visual Studio\Лобараторная работа DAPPER (1)\Лобараторная работа DAPPER\Лобараторная работа DAPPER\bin\Debug\Лобараторная работа DAPPER.exe.config
+D:\Visual Studio\Лобараторная работа DAPPER (1)\Лобараторная работа DAPPER\Лобараторная работа DAPPER\bin\Debug\Лобараторная работа DAPPER.exe
+D:\Visual Studio\Лобараторная работа DAPPER (1)\Лобараторная работа DAPPER\Лобараторная работа DAPPER\bin\Debug\Лобараторная работа DAPPER.pdb
+D:\Visual Studio\Лобараторная работа DAPPER (1)\Лобараторная работа DAPPER\Лобараторная работа DAPPER\bin\Debug\Dapper.dll
+D:\Visual Studio\Лобараторная работа DAPPER (1)\Лобараторная работа DAPPER\Лобараторная работа DAPPER\bin\Debug\DapperExtensions.dll
+D:\Visual Studio\Лобараторная работа DAPPER (1)\Лобараторная работа DAPPER\Лобараторная работа DAPPER\bin\Debug\Dapper.xml
+D:\Visual Studio\Лобараторная работа DAPPER (1)\Лобараторная работа DAPPER\Лобараторная работа DAPPER\bin\Debug\DapperExtensions.pdb
+D:\Visual Studio\Лобараторная работа DAPPER (1)\Лобараторная работа DAPPER\Лобараторная работа DAPPER\obj\Debug\Лобараторная работа DAPPER.csprojAssemblyReference.cache
+D:\Visual Studio\Лобараторная работа DAPPER (1)\Лобараторная работа DAPPER\Лобараторная работа DAPPER\obj\Debug\Лобараторная работа DAPPER.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Лобараторная работа DAPPER (1)\Лобараторная работа DAPPER\Лобараторная работа DAPPER\obj\Debug\Лобараторная работа DAPPER.csproj.CopyComplete
+D:\Visual Studio\Лобараторная работа DAPPER (1)\Лобараторная работа DAPPER\Лобараторная работа DAPPER\obj\Debug\Лобараторная работа DAPPER.exe
+D:\Visual Studio\Лобараторная работа DAPPER (1)\Лобараторная работа DAPPER\Лобараторная работа DAPPER\obj\Debug\Лобараторная работа DAPPER.pdb
